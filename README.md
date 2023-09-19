@@ -34,7 +34,7 @@ Further, it was requested to find out the increasing value, decreasing value. Al
 
 ## Looping: 
 
-Loop was utilied to generate the summary table and second Loop was used to achieve the values for percent summary table.
+Loop was utilied to generate the summary table and second Loop was used to achieve the values for percent summary table by just adding addtional sheets to the workbook.
 
 
 
